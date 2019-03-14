@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://sunsmiling.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  통계학과 학생이 공부하며 정리한 
+  통계학과 학생이 공부하며 정리한       
            통계 블로그
 # A list of keywords for your blog
 keywords:              []
@@ -50,11 +50,11 @@ author:
 menu:
   - title:             Hydejack
     url:               /hydejack/
-  - title:             Hyde
+  - title:             Regression Trees
     url:               /hyde/
-  - title:             Documentation
+  - title:             Neural Networks
     url:               /docs/
-  - title:             About
+  - title:             Seminar materials
     url:               /about/
 
 # Add links to the footer.
