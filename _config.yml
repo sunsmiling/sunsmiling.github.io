@@ -41,8 +41,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Sunny> <Cho>
+  email:               <smilingsun@ewhain.net>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -51,7 +51,7 @@ menu:
   - title:             Hydejack
     url:               /hydejack/
   - title:             Regression Trees
-    url:               /regressiontree/
+    url:               /about/
   - title:             Neural Networks
     url:               /docs/
   - title:             Seminar materials
