@@ -55,7 +55,7 @@ menu:
   - title:             Neural Networks
     url:               /docs/
   - title:             Seminar materials
-    url:               /about/
+    url:               /posts/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
