@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
+  - title:             Resume
+    url:               /posts/
   - title:             Regression Trees
-    url:               /regressiontree/
+    url:               /hydejack/
   - title:             Neural Networks
     url:               /docs/
   - title:             Seminar materials
