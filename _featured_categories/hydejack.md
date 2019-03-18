@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Sunny
+title: Regression Tree
 slug: hydejack
 menu: true
 order: 1
