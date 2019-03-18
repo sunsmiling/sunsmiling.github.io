@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Regression Trees
+title: Neural Networks
 slug: hyde
 menu: true
 order: 2
