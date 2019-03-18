@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hyde
+title: Regression Trees
 slug: hyde
 menu: true
 order: 2
