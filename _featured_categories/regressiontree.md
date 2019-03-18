@@ -1,6 +1,6 @@
 ---
 layout: list
-title: regression trees
+title: Regression trees
 slug: regressiontree
 menu: true
 order: 3
