@@ -49,11 +49,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Resume
-    url:               /posts/
+    url:               /docs/
   - title:             Regression Trees
     url:               /hydejack/
   - title:             Neural Networks
-    url:               /docs/
+    url:               /hyde/
   - title:             Seminar materials
     url:               /posts/
 
