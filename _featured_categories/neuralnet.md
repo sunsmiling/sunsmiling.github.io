@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Neural network
-slug: neural_net
+slug: neuralnet
 menu: true
 order: 2
 description: >
