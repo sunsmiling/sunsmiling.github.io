@@ -4,14 +4,17 @@ Education
 ---------
 
 2016-2020 (expected)
+
 :   **PhD, Statistics** 
-    Ewha Womans University (Seoul)
+
+Ewha Womans University (Seoul)
 
     *Thesis title: Data Visualization and Tree method developing*
 
 2011-2016
 :   **BSc, Statistics**
-    Ewha Womans University
+
+Ewha Womans University (Seoul)
 
     *Minor: Health Education and Management*
 
