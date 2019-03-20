@@ -51,7 +51,7 @@ menu:
   - title:             Regression Trees
     url:               /regressiontree/
   - title:             Neural Networks
-    url:               /hyde/
+    url:               /neural_net/
   - title:             Seminar materials
     url:               /posts/
   - title:             Resume
