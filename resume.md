@@ -1,102 +1,93 @@
-# If you have a `resume.json` file, copy it into `_data` and delete this file.
-# If you don't have a JSON Resume you can just edit this YAML file instead.
-# See also: <https://jsonresume.org/>.
-basics:
-  name: "Hyunsun Cho"
-  label: "Programmer"
-  picture: "/assets/icons/icon.png"
-  email: ""
-  website: "https://sunsmiling.github.io/posts/"
-  summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
-  location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
-  profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
-    - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
-work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
-    summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
-    highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
-education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
-skills:
-  - name: "Web Development"
-    level: "Master"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+Cho Hyun sun
+============
+
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
+
+Education
+---------
+
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
+
+    *Minor: Awesomeology*
+
+Experience
+----------
+
+**Your Most Recent Work Experience:**
+
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
+
+* First item
+
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
+
+**That Other Job You Had**
+
+Also with a short description.
+
+Technical Experience
+--------------------
+
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
+
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
+
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
+
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
+
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file). 
+
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
+
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+[ref]: https://github.com/githubuser/superlongprojectname
+
+Extra Section, Call it Whatever You Want
+----------------------------------------
+
+* Human Languages:
+
+     * English (native speaker)
+     * ???
+     * This is what a nested list looks like.
+
+* Random tidbit
+
+* Other sort of impressive-sounding thing you did
