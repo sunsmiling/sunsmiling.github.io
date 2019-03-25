@@ -9,8 +9,10 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
    
-   안녕하세요 |
-   데이터 시각화와 트리 모델링에 관심이 많은 |
+   안녕하세요 
+   
+   데이터 시각화와 트리 모델링에 관심이 많은 
+   
    통계학과 학생입니다!
 
 #    Open `_data/authors.yml` to edit this text.
@@ -37,7 +39,7 @@ author1:
     github:          <sunsmiling>
     email:           <smilingsun@ewhain.net>
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
+    facebook:        <sunsmiling>
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
