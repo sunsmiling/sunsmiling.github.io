@@ -9,8 +9,8 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
    
-   안녕하세요    
-   데이터 시각화와 트리 모델링을 공부하고 있는
+   안녕하세요        
+   데이터 시각화와 트리 모델링을 공부하고 있는       
    통계학과 학생입니다!
 
 #    Open `_data/authors.yml` to edit this text.
